@@ -1,0 +1,71 @@
+section{
+    width: 900px;
+    height: 900px;
+    background-color: plum;
+    margin: auto;
+}
+#h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+  button{ 
+    background-color:#d0df94;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    
+}
+
+#task{
+    background-color: rgb(232, 239, 239);
+    padding: 20px 30px;
+    width: 700px;
+   margin: auto;
+}
+
+#task input{
+    width: 400px;
+    height: 35px;
+    text-align: center;
+}
+
+.main{
+    width: 700px;
+    height: 400px;
+    display: flex;
+    margin:70px auto;
+    justify-content: space-between;
+
+}
+
+.child1{ text-align: center;
+    width: 320px;
+    height: 350px;
+    background-color: aliceblue;
+    
+    
+}
+
+.child1 h2 ul li{
+    text-align: center;
+
+
+}
+.child2{
+    width: 320px;
+    height: 350px;
+    background-color: aliceblue;
+    
+}
+.child2 h2 ,ul, li{
+    text-align: center;
+}
+ul ,li{
+   list-style: none; 
+}
+
+
+
+
+
